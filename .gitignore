@@ -29,6 +29,8 @@ ENV/
 Thumbs.db
 desktop.ini
 
+claude.md 
+
 # Local env / secrets
 .env
 .env.local
